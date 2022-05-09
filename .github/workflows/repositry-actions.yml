@@ -1,4 +1,4 @@
-name: docker-actions.yml
+name: repositry-actions.yml
 on: [push]
 jobs:
   my_first_job:
