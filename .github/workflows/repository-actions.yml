@@ -1,4 +1,4 @@
-name: repositry-actions.yml
+name: repository-actions.yml
 on: [push]
 jobs:
   my_first_job:
